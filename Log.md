@@ -32,3 +32,11 @@ Watch half of the [lesson 4](https://www.youtube.com/watch?v=gbceqO8PpBg&t=158s)
 **Hours Today** : 1
 
 **Hours So Far** : 5
+
+## Day 5 : July 17 , 2018
+ 
+**Today's Progress** : Revised Lesson's 1,2,3. Went through forum Q&As and this [awesome page](https://github.com/reshamas/fastai_deeplearn_part1/blob/master/README.md#platforms-for-using-fastai-gpu-required) by reshamas.
+
+**Hours Today** : 3
+
+**Hours So Far** : 8
