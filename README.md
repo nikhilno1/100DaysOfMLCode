@@ -1,3 +1,1 @@
-# 100DaysOfMLCode
-
-Taking the #100DaysofMLCode challenge by Siraj Raval.
+Submissions for internship with https://inkers.ai/
